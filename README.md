@@ -1,4 +1,4 @@
-# About Me - Case 👋
+## 👋 About
 
 Hey there! I'm Case, a passionate developer with a knack for crafting stupid things no body really needs.
 
