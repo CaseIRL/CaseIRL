@@ -1,16 +1,19 @@
-### Hi there 👋
+# About Me - Case 👋
 
-<!--
-**CaseIRL/CaseIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Case, a passionate developer with a knack for crafting stupid things no body really needs.
 
-Here are some ideas to get you started:
+Currently dedicating my 95% time to the projects listed below, however a few random things will be uploaded here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = 'center'>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseIRL&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+## 👨‍💻 Organisations
+- **[BOII | Development](https://github.com/boiidevelopment)**
+- **[BOII | Frameworks](https://github.com/boiiframeworks)**
+
+## 🚀 Projects
+- **[BOII | Development Resources](https://github.com/boiidevelopment)**
+- **[BOII | Development Frameworks](https://github.com/boiiframeworks)**
