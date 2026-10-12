@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Case</h1>
 
 <p align="center">
-  <b>An open-source dump of cool experiments, FiveM tools, and questionable 3 AM ideas.</b>
+  <b>Building code-first game engines, FiveM tools, and everything in between.</b>
 </p>
 
 <p align="center">
@@ -17,22 +17,23 @@
 
 ### 🧪 What Is This Place?
 
-I build things when I get curious.
+I build systems when I get curious or annoyed by existing tooling. 
 
-If an idea sounds fun, I'll write it, test it, and drop the source code here for anyone to mess with, modify, or break.
+If an engine, framework, or idea doesn't exist the way I want it to, I write it, test it, and drop the source code here. From low-level game engines to production-tested FiveM ecosystems, this is where the code lives.
 
-- 🕹️ **FiveM & Web Tech:** Modular Lua scripts, NUI interfaces, and HTML/JS mini-games.
-- 🎮 **Indie Dev & Experiments:** I'm dragging my Lua brain into game dev work so find some of that here too.
-- 🎧 **The Stack:** Fueled by caffiene, late-night code sessions, and a lot of trial-and-error.
+- 🎮 **Game Tech & Engines:** Dragging my Lua brain into custom engine work with **[modit-engine](https://github.com/caseirl/modit-engine)** (LuaJIT + Raylib).
+- 🕹️ **FiveM & Frameworks:** Powering servers and modules through **[@rig-framework](https://github.com/rig-fivem/rig)** and scripts over at **[@boiidevelopment](https://github.com/boiidevelopent)**.
+- 🎧 **The Stack:** Fueled by caffeine, late-night code sessions, low-level FFI, and trial-and-error.
 
 ---
 
-### 📦 Recent Open-Source Dumps
+### 🚀 Flagship Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🕹️ **[case_retroboy](https://github.com/caseirl/case_retroboy)** | Game & Watch style handheld shell for FiveM that runs HTML/JS games. | `Lua` `HTML` `JS` |
-| 🏃 **[case_retroboy_runnergame](https://github.com/caseirl/case_retroboy_runnergame)** | Plug-and-play runner cartridge built for the RetroBoy registry export. | `JS` `CSS` |
+| ⚡ **[modit-engine](https://github.com/caseirl/modit-engine)** | Code-first 2D/3D engine built on LuaJIT and Raylib with built-in sandboxed modding. | `Lua` `C` `Raylib` |
+| 🛠️ **[rig-fivem](https://github.com/rig-fivem/rig)** | Modular framework and architecture toolkit for FiveM developers. | `Lua` |
+| 🕹️ **[case_retroboy](https://github.com/caseirl/case_retroboy)** | Game & Watch style handheld shell for FiveM running HTML/JS mini-games. | `Lua` `HTML` `JS` |
 
 ---
 
@@ -45,7 +46,7 @@ If an idea sounds fun, I'll write it, test it, and drop the source code here for
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![C](https://img.shields.io/badge/C%20(FFI)-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C (FFI)](https://img.shields.io/badge/C%20(FFI)-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
