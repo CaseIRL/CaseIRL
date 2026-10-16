@@ -31,7 +31,7 @@ If an engine, framework, or idea doesn't exist the way I want it to, I write it,
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| ⚡ **[modit-engine](https://github.com/caseirl/modit-engine)** | Code-first 2D/3D engine built on LuaJIT and Raylib with built-in sandboxed modding. | `Lua` `C` `Raylib` |
+| ⚡ **[modit-engine](https://github.com/modit-engine/modit)** | Code-first 2D/3D engine built on LuaJIT and Raylib with built-in sandboxed modding. | `Lua` `C` `Raylib` |
 | 🛠️ **[rig-fivem](https://github.com/rig-fivem/rig)** | Modular framework and architecture toolkit for FiveM developers. | `Lua` |
 | 🕹️ **[case_retroboy](https://github.com/caseirl/case_retroboy)** | Game & Watch style handheld shell for FiveM running HTML/JS mini-games. | `Lua` `HTML` `JS` |
 
